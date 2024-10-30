@@ -61,7 +61,7 @@ Tapped 1 formula (13 files, 21.7KB).
 Once the tap is added, install the package by typing `brew install xcodeinstall`
 
 ```zsh
-➜  ~ brew install xcodeinstall 
+➜  ~   brew install sebsto/macos/xcodeinstall
 
 ==> Downloading https://github.com/sebsto/xcodeinstall/archive/refs/tags/v0.1.tar.gz
 Already downloaded: /Users/stormacq/Library/Caches/Homebrew/downloads/03a2cadcdf453516415f70a35b054cdcfb33bd3a2578ab43f8b07850b49eb19c--xcodeinstall-0.1.tar.gz
